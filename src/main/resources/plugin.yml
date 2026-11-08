@@ -1,0 +1,9 @@
+name: CombatLock
+version: 1.0.0
+main: me.combatlock.CombatLock
+api-version: '1.21'
+description: Combat tag with logout punishment and elytra block.
+permissions:
+  combatlock.bypass:
+    description: Not affected by combat tagging
+    default: false

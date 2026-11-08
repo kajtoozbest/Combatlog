@@ -1,0 +1,14 @@
+# How long a player stays tagged after the last hit (seconds)
+tag-seconds: 15
+
+# Block elytra while tagged
+block-elytra: true
+
+# Block ender pearls while tagged (off by default)
+block-ender-pearls: false
+
+# Kill players who log out while tagged (their items drop)
+kill-on-logout: true
+
+# Print tag/bypass info to the console (turn off when everything works)
+debug: true
